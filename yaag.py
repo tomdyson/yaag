@@ -1,3 +1,3 @@
-"""Yet another auto GPT""
+"""Yet another auto GPT"""
 
-__version__ = 0.0.1
+__version__ = "0.0.1"
